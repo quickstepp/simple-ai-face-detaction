@@ -1,3 +1,3 @@
-const Server = 'https://simple-ai-face-detaction.vercel.app/';
+const Server = process.env.Server;
 
 export default Server;
